@@ -1,2 +1,24 @@
-
 /* Your CSS Code here. */
+.card {
+	text-align: center;
+}
+.moviePic {
+	width: 30%;
+	height: auto;
+	opacity: 0.6;
+}
+
+.description {
+	width: 100%;
+	position: absolute;
+}
+.movieDetail {
+	width: 100%;
+	position: relative;
+	top: 0;
+	text-align: center;
+	font-size: 22px;
+}
+
+
+
